@@ -14,4 +14,4 @@ It detects the product type in the users cart;
 • If it contains both types then it uses the original billing fields so the seller can have a shipping address to send the physical products
 
 
-###Open to contributions
+### Open to contributions
